@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.bg_color{
+    background-color: hwb(41 0% 0% / 0.915);
+} 
+.text_color{
+
+    color: #504d48!important;
+}
+
+
+
+ .question_text{
+    font-size: 18px;
+    color:#504d48;
+}
+
+
+/* tabs */
+
+.nav-tabs{
+    background-color: #fdf8e6;
+    font-size: 20px;
+    color: #fff !important;
+}
+
+
+
+.tabtaxt{
+
+    font-size: 20px;
+    color:#504d48;
+}
+
+
+.tabscolor{
+
+background-color: #fefcf6;
+
+}
+.form-select{
+
+    width: 50% !important;
+}
+

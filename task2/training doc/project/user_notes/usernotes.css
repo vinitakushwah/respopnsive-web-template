@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #fdf8e6;
+}
+
+.bg_color{
+    background-color: hwb(41 0% 0% / 0.915);
+} 
+
+.question_text{
+    font-size: 18px;
+    color:#504d48;
+    padding: 10px;
+}
+
+.fa-arrow-left{
+    padding: 10px;
+    width: 6px;
+}

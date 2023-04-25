@@ -1,0 +1,262 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    background-image: linear-gradient(to right, #181818 , #494949);
+    height: 1000px;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.nav-link {
+    color: #000 !important;
+}
+.linksize{
+    font-size: 18px;
+    font-size: bold;
+}
+
+
+.nav-item {
+    color: #000 !important;
+}
+
+.navbar {
+    background-color: #fff;
+    margin-left: 20px;
+    /* margin-top: -2rem; */
+    /* position: relative; */
+    padding: 2px;
+    margin-bottom: 4px;
+
+}
+
+.navbar-light {
+    color: #000 !important;
+}
+
+.navbar-brand {
+    color: #F36E23 !important;
+    font-size: 40px;
+    letter-spacing: 2px;
+   
+
+}
+
+@media screen and (min-width: 480px) {
+
+    #navbarNav {
+        margin-left: 60%;
+        font-size: 20px;
+        color: black !important;
+        margin-top: 30px;
+    }
+
+}
+
+@media screen and (min-width:750px) {
+    #navbarNav {
+        margin-left: 40%;
+        font-size: 20px;
+        color: black;
+        margin-top: 30px;
+    }
+}
+
+
+#bannerdiv {
+    background-image: url(banner.png);
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    color: #FFFFFF;
+
+}
+
+#bannertext {
+
+    padding-top: 15%;
+    color: white;
+    background: rgba(0, 0, 0, 0.61);
+    overflow: hidden;
+    height: 100%;
+}
+
+.content {
+
+    background-color: #fff;
+    margin-bottom: 50px;
+}
+
+.progrmsec {
+    margin-right: 30px;
+}
+
+#image1 {
+    background-color: hwb(41 0% 0% / 0.915);
+    /* margin: 25px; */
+    margin-right: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+#progrmimg {
+    margin-left: 40%;
+    margin-bottom: 28px;
+    margin-top: 30px;
+}
+
+#Knowmorebtn {
+    border: 2px solid black;
+    border-radius: 0% !important;
+    margin-bottom: 15%;
+    background-color: hwb(41 0% 0% / 0.915) !important;
+
+}
+
+.gallery {
+    background-color: #000;
+}
+
+.gallerytext {
+    margin-top: 35px;
+    margin-bottom: 30px;
+}
+
+
+@media screen and (min-width:750px) {
+    .galleryimg {
+        margin-left: 97px;
+        padding: 0;
+    }
+}
+
+.img-thumbnail {
+    padding: 0%;
+    margin-bottom: 10px;
+    border: #000 solid 1px;
+}
+
+
+#viewmore {
+    background-color: #000 !important;
+    color: #fff;
+    margin: 40px;
+}
+
+.sociallink {
+    background-color: hwb(41 0% 0% / 0.915);
+    height: 25px;
+    width: 25px;
+    border-radius: 100%;
+}
+
+
+.bg-color {
+    background-color: hwb(41 0% 0% / 0.915);
+}
+
+
+.covid {
+    width: 100%;
+    background-color: white;
+    margin-top: 30px;
+}
+
+.team-img {
+    border: solid white 5px;
+    border-radius: 100%;
+    width: 90%;
+}
+
+.Swat-profile {
+    background-color: rgb(27, 27, 27);
+}
+
+.swat-contact {
+    background-color: rgb(239, 185, 0);
+}
+
+.covid-support {
+    padding-top: 150px;
+    vertical-align: middle;
+}
+
+.donatebtn {
+    background-color: rgb(239, 185, 0);
+    border: solid black 1px;
+    color: black;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+#swatteamtext {
+    margin-right: 80% !important;
+    word-spacing: 10%;
+
+}
+
+.viewbtn {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.imgstyle {
+
+    height: 30px
+}
+
+@media screen and (max-width: 700px) {
+
+ .footer {
+      text-align: center;
+    }
+  }
+
+/* login page css */
+  
+  .card{
+    background-image: linear-gradient(to right, #ffc700, hsl(41, 100%, 50%));
+    border-radius: 2em !important;
+    margin-top: 100px!important;
+    /* background-color:  #e68035 !important; */
+    width: 80% !important;
+
+  }
+ 
+   
+   .form-control{
+     border-radius: 2em !important;
+     border-color: #181818  ;
+     /* width: 90% !important; */
+     height: 40px !important;
+   }
+
+ .text_color{
+    color:#504d48 !important;
+ }
+
+.login_btn{
+background-color: #243a45 !important;
+color: #e68035 !important;
+width: 100%;
+height:45px ;
+border-radius: 2em!important ;
+
+ }
+ 
+
+
+
